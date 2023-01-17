@@ -13,4 +13,4 @@
 
 A great place to start learning how to build your skills and learn how to solve coding challenges --> *[codewars](https://www.codewars.com/)*
 
-<img src="[https://www.codewars.com/users/yaw%20offeh/badges/large](https://www.codewars.com/users/Yaw%20Offeh/badges/large)">
+<img src="https://www.codewars.com/users/Yaw%20Offeh/badges/large">
