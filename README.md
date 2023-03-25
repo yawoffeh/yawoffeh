@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/yaw_offeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaw_offeh" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yawoffeh&show_icons=true&locale=en&layout=compact" alt="yawoffeh" /></p>
 
 A great place to start learning how to build your skills and learn how to solve coding challenges --> *[codewars](https://www.codewars.com/)*
 
