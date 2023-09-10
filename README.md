@@ -16,8 +16,6 @@
   </a>
 </p>
 
-🚀 A great place to start learning how to build your skills and solve coding challenges: [CodeWars](https://www.codewars.com/)
-
 ![CodeWars Badges](https://www.codewars.com/users/Yaw%20Offeh/badges/large)
 
 
