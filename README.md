@@ -14,7 +14,7 @@
   </a>
 </p>
 
-![CodeWars Badges](https://www.codewars.com/users/Yaw%20Offeh/badges/large)
+![CodeWars Badges](https://www.codewars.com/users/RedDans/badges/large)
 
 
 
